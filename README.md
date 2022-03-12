@@ -1,4 +1,4 @@
-# Zoo Functions
+# Jest
 
 Testes unitários para código já criado anteriormente com testes assíncronos e mockagem de resultados utilizando o `Jest`.
 
